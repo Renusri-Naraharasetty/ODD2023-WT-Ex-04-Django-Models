@@ -8,11 +8,9 @@ DEPT   : Artificial Intelligence and  Machine Learning
 
 # AIM:
 
-     To create a django model with five users.
-
-     1. Setting  email address for all users.
-
-     2. setting first name and last name for all users.
+To create a django model with five users.
+1. Setting  email address for all users.
+2. setting first name and last name for all users.
 
 # Design procedure:
 
