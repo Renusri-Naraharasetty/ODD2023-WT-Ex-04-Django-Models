@@ -60,7 +60,8 @@ And  in the user_profile template page you can see the profile page of the user.
 
 
 # OUTPUT:
-![Alt text](image.png)
+![result](https://github.com/Renusri-Naraharasetty/ODD2023-WT-Ex-04-Django-Models/assets/146916363/c062e180-e27c-45ec-afab-00dd9f98e936)
+
 
 
 # RESULT:
